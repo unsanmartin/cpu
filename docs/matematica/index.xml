@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matemática on </title>
+    <link>https://github.com/unsanmartin/cpu/docs/matematica/</link>
+    <description>Recent content in Matemática on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Sun, 14 Mar 2021 17:29:16 -0300</lastBuildDate><atom:link href="https://github.com/unsanmartin/cpu/docs/matematica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conjuntos Numéricos</title>
+      <link>https://github.com/unsanmartin/cpu/docs/matematica/conjuntos/</link>
+      <pubDate>Sun, 14 Mar 2021 17:30:55 -0300</pubDate>
+      
+      <guid>https://github.com/unsanmartin/cpu/docs/matematica/conjuntos/</guid>
+      <description>Elementos de Matemática \[f(x) = sin(x) + 12 a&#39; \]
+\[\begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix}\]
+Números naturales Los números naturales
+Números enteros Números racionales Una razón es un cociente. Es una fracción.
+\[\frac 1 3 = 0,3333 \]
+Números irracionales No se pueden expresar como una fracción. Pi es un número irracional.
+\[\frac m n con n \]
+Número de Euler, también es un números irracional:</description>
+    </item>
+    
+    <item>
+      <title>Polinomios</title>
+      <link>https://github.com/unsanmartin/cpu/docs/matematica/polinomios/</link>
+      <pubDate>Sun, 14 Mar 2021 17:30:55 -0300</pubDate>
+      
+      <guid>https://github.com/unsanmartin/cpu/docs/matematica/polinomios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funciones</title>
+      <link>https://github.com/unsanmartin/cpu/docs/matematica/funciones/</link>
+      <pubDate>Sun, 14 Mar 2021 17:30:55 -0300</pubDate>
+      
+      <guid>https://github.com/unsanmartin/cpu/docs/matematica/funciones/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
