@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/unsanmartin/cpu/sitemap.xml
+Sitemap: https://unsanmartin.github.io/cpu/sitemap.xml

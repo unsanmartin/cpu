@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modern Documentation Theme on </title>
-    <link>https://github.com/unsanmartin/cpu/</link>
+    <link>https://unsanmartin.github.io/cpu/</link>
     <description>Recent content in Modern Documentation Theme on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-AR</language>
     <lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate>
     
-        <atom:link href="https://github.com/unsanmartin/cpu/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://unsanmartin.github.io/cpu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>https://github.com/unsanmartin/cpu/blog/</link>
+      <link>https://unsanmartin.github.io/cpu/blog/</link>
       <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
       
-      <guid>https://github.com/unsanmartin/cpu/blog/</guid>
+      <guid>https://unsanmartin.github.io/cpu/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docs</title>
-      <link>https://github.com/unsanmartin/cpu/docs/</link>
+      <link>https://unsanmartin.github.io/cpu/docs/</link>
       <pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate>
       
-      <guid>https://github.com/unsanmartin/cpu/docs/</guid>
+      <guid>https://unsanmartin.github.io/cpu/docs/</guid>
       <description></description>
     </item>
     
