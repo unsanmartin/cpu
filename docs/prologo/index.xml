@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prologo on </title>
+    <link>https://unsanmartin.github.io/cpu/docs/prologo/</link>
+    <description>Recent content in Prologo on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://unsanmartin.github.io/cpu/docs/prologo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción</title>
+      <link>https://unsanmartin.github.io/cpu/docs/prologo/introduccion/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://unsanmartin.github.io/cpu/docs/prologo/introduccion/</guid>
+      <description>Empezando En esta página están cargados mis apuntes de clase, además de las notas que tomo de la lecturas de la bibliografía.
+En cada caso estará aclarado de que se trata. Las falencias y las faltas son de mi responsabilidad.
+Propósito Esto no intenta reemplazar al Campus de la Universidad. El objetivo es alentar mi compromiso de estudio a partir de una metodología de registro, como objetivo secundario está la idea de que es bueno compartir apuntes.</description>
+    </item>
+    
+  </channel>
+</rss>

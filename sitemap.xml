@@ -3,29 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://unsanmartin.github.io/cpu/blog/say-hello-to-doks/</loc>
-    <lastmod>2020-11-04T09:19:42+01:00</lastmod>
+    <loc>https://unsanmartin.github.io/cpu/blog/hecho-en-doks/</loc>
+    <lastmod>2021-03-21T09:19:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://unsanmartin.github.io/cpu/docs/prologue/introduction/</loc>
+    <loc>https://unsanmartin.github.io/cpu/docs/prologo/introduccion/</loc>
     <lastmod>2020-10-06T08:48:57+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://unsanmartin.github.io/cpu/docs/prologue/quick-start/</loc>
-    <lastmod>2020-11-16T13:59:39+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://unsanmartin.github.io/cpu/docs/prologue/commands/</loc>
-    <lastmod>2020-10-13T15:21:01+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -52,36 +38,22 @@
   </url>
   
   <url>
-    <loc>https://unsanmartin.github.io/cpu/docs/estudios/introduccion/</loc>
+    <loc>https://unsanmartin.github.io/cpu/docs/matematica/ejercicios/</loc>
+    <lastmod>2021-03-16T16:10:52-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://unsanmartin.github.io/cpu/docs/estudios/estudios/</loc>
     <lastmod>2021-03-14T17:30:55-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://unsanmartin.github.io/cpu/docs/contabilidad/introduccion/</loc>
+    <loc>https://unsanmartin.github.io/cpu/docs/contabilidad/contabilidad/</loc>
     <lastmod>2021-03-14T17:30:55-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://unsanmartin.github.io/cpu/docs/ayuda/how-to-update/</loc>
-    <lastmod>2020-11-12T13:26:54+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://unsanmartin.github.io/cpu/docs/ayuda/troubleshooting/</loc>
-    <lastmod>2020-11-12T15:22:20+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://unsanmartin.github.io/cpu/docs/ayuda/faq/</loc>
-    <lastmod>2020-10-06T08:49:31+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -89,6 +61,13 @@
   <url>
     <loc>https://unsanmartin.github.io/cpu/docs/matematica/</loc>
     <lastmod>2021-03-14T17:29:16-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://unsanmartin.github.io/cpu/contributors/matias/</loc>
+    <lastmod>2021-03-21T09:19:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -136,7 +115,7 @@
   </url>
   
   <url>
-    <loc>https://unsanmartin.github.io/cpu/docs/prologue/</loc>
+    <loc>https://unsanmartin.github.io/cpu/docs/prologo/</loc>
     <lastmod>2020-10-06T08:48:45+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

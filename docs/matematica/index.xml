@@ -13,14 +13,11 @@
       <pubDate>Sun, 14 Mar 2021 17:30:55 -0300</pubDate>
       
       <guid>https://unsanmartin.github.io/cpu/docs/matematica/conjuntos/</guid>
-      <description>Elementos de Matemática \[f(x) = sin(x) + 12 a&#39; \]
-\[\begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix}\]
-Números naturales Los números naturales
-Números enteros Números racionales Una razón es un cociente. Es una fracción.
-\[\frac 1 3 = 0,3333 \]
-Números irracionales No se pueden expresar como una fracción. Pi es un número irracional.
-\[\frac m n con n \]
-Número de Euler, también es un números irracional:</description>
+      <description>==Clase del 11-03-2020==
+Conjuntos Numéricos I. Números naturales Los números naturales es el conjunto de los número 1, 2, 3, 4, etc. Se simbolizan con N. También tenemos el conjunto de los números naturales ampliado 0, 1, 2, 3, 4, etc. que se simboliza con N.
+\[ N = {1,2,3,4, ...} \]
+\[ N\scriptscriptstyle 0 = \normalsize {0, 1, 2, 3, 4, ...}\]
+II. Números enteros (Fuente: bibliografía de clase)</description>
     </item>
     
     <item>
@@ -29,7 +26,7 @@ Número de Euler, también es un números irracional:</description>
       <pubDate>Sun, 14 Mar 2021 17:30:55 -0300</pubDate>
       
       <guid>https://unsanmartin.github.io/cpu/docs/matematica/polinomios/</guid>
-      <description></description>
+      <description>Todavía no vimos esto.</description>
     </item>
     
     <item>
@@ -38,7 +35,21 @@ Número de Euler, también es un números irracional:</description>
       <pubDate>Sun, 14 Mar 2021 17:30:55 -0300</pubDate>
       
       <guid>https://unsanmartin.github.io/cpu/docs/matematica/funciones/</guid>
-      <description></description>
+      <description>Todavía no vimos esto.</description>
+    </item>
+    
+    <item>
+      <title>Ejercicios</title>
+      <link>https://unsanmartin.github.io/cpu/docs/matematica/ejercicios/</link>
+      <pubDate>Tue, 16 Mar 2021 16:10:52 -0300</pubDate>
+      
+      <guid>https://unsanmartin.github.io/cpu/docs/matematica/ejercicios/</guid>
+      <description>6. Resolver aplicando propiedades y Tarea para 18/03/2021
+Todos los ejercicios del punto 6 de la guía.
+Racionalización sólo el primer caso. Esto lo tomamos del apunte.
+Ejercicio 6.a. Separación primero los términos y después sumar o restar. Simplificar los terminos. Recordar que sólo se pueden cancelar en división y multiplicación.
+\[ \Big( -\frac{2}{5} + \sqrt{\smash[b]{\big(1+\frac{5}{4}\big)}} \Big) : \big(-\frac{1}{5}\big)+\frac{27}{25}:\big(-\frac{9}{5}\big)-\big(\frac{7}{15})*(-3) \]
+Ejercicio 6.b. Un exponente negativo invierte la fracción sin cambiar el signo de la fracción.</description>
     </item>
     
   </channel>
