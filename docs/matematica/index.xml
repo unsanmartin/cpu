@@ -8,16 +8,26 @@
     <language>es-AR</language>
     <lastBuildDate>Sun, 14 Mar 2021 17:29:16 -0300</lastBuildDate><atom:link href="https://unsanmartin.github.io/cpu/docs/matematica/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Apuntes de clase</title>
+      <link>https://unsanmartin.github.io/cpu/docs/matematica/clases/</link>
+      <pubDate>Sun, 14 Mar 2021 17:30:55 -0300</pubDate>
+      
+      <guid>https://unsanmartin.github.io/cpu/docs/matematica/clases/</guid>
+      <description>💡 Learn more about semantic versioning and advanced range syntax.  Mensaje a destacar Clase 11-03-2021 Números racionales - Números racionales.
+Números naturales | Números enteros | Números racionales | Números irracionales | Números reales
+Clase 15-03-2021 Números reales | Racionalización de denominadores
+Clase 18-03-2021 Clase 22-03-2021 </description>
+    </item>
+    
+    <item>
       <title>Conjuntos Numéricos</title>
       <link>https://unsanmartin.github.io/cpu/docs/matematica/conjuntos/</link>
       <pubDate>Sun, 14 Mar 2021 17:30:55 -0300</pubDate>
       
       <guid>https://unsanmartin.github.io/cpu/docs/matematica/conjuntos/</guid>
-      <description>==Clase del 11-03-2020==
-Conjuntos Numéricos I. Números naturales Los números naturales es el conjunto de los número 1, 2, 3, 4, etc. Se simbolizan con N. También tenemos el conjunto de los números naturales ampliado 0, 1, 2, 3, 4, etc. que se simboliza con N.
-\[ N = {1,2,3,4, ...} \]
-\[ N\scriptscriptstyle 0 = \normalsize {0, 1, 2, 3, 4, ...}\]
-II. Números enteros (Fuente: bibliografía de clase)</description>
+      <description>💡 Learn more about semantic versioning and advanced range syntax.  I. Números naturales Los números naturales es el conjunto de los número 1, 2, 3, 4, etc. Se simbolizan con N. También tenemos el conjunto de los números naturales ampliado 0, 1, 2, 3, 4, etc. que se simboliza con N.
+$$ N = {1,2,3,4, &amp;hellip;} $$
+$$ N\scriptscriptstyle 0 = \normalsize {0, 1, 2, 3, 4, &amp;hellip;} $$</description>
     </item>
     
     <item>
@@ -35,7 +45,21 @@ II. Números enteros (Fuente: bibliografía de clase)</description>
       <pubDate>Sun, 14 Mar 2021 17:30:55 -0300</pubDate>
       
       <guid>https://unsanmartin.github.io/cpu/docs/matematica/funciones/</guid>
-      <description>Todavía no vimos esto.</description>
+      <description>En esta página ahora hay ejercicios de código Todavía no vimos esto. Esto es una prueba de mathjax. La primera fórmula está en mathjax.
+[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} ]
+Esta es la versión inline: ( x = {-b \pm \sqrt{b^2-4ac} \over 2a} )
+Esta formula es en katex.
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$</description>
+    </item>
+    
+    <item>
+      <title>Glosario de símbolos matemáticos</title>
+      <link>https://unsanmartin.github.io/cpu/docs/matematica/glosario/</link>
+      <pubDate>Sun, 14 Mar 2021 17:30:55 -0300</pubDate>
+      
+      <guid>https://unsanmartin.github.io/cpu/docs/matematica/glosario/</guid>
+      <description>Glosario de símbolos matemáticos $\in$ pertenencia de conjunto: &amp;ldquo;pertenece a&amp;hellip;&amp;rdquo;
+$\forall$ Cuantificador universal: para todos.</description>
     </item>
     
     <item>
@@ -48,7 +72,7 @@ II. Números enteros (Fuente: bibliografía de clase)</description>
 Todos los ejercicios del punto 6 de la guía.
 Racionalización sólo el primer caso. Esto lo tomamos del apunte.
 Ejercicio 6.a. Separación primero los términos y después sumar o restar. Simplificar los terminos. Recordar que sólo se pueden cancelar en división y multiplicación.
-\[ \Big( -\frac{2}{5} + \sqrt{\smash[b]{\big(1+\frac{5}{4}\big)}} \Big) : \big(-\frac{1}{5}\big)+\frac{27}{25}:\big(-\frac{9}{5}\big)-\big(\frac{7}{15})*(-3) \]
+$$ \Big( -\frac{2}{5} + \sqrt{\smash[b]{\big(1+\frac{5}{4}\big)}} \Big) : \big(-\frac{1}{5}\big)+\frac{27}{25}:\big(-\frac{9}{5}\big)-\big(\frac{7}{15})*(-3) $$
 Ejercicio 6.b. Un exponente negativo invierte la fracción sin cambiar el signo de la fracción.</description>
     </item>
     

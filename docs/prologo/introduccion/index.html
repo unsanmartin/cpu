@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="preload" as="font" href="https://unsanmartin.github.io/cpu/fonts/vendor/jost/jost-v4-latin-regular.woff2" type="font/woff2" crossorigin>
 <link rel="preload" as="font" href="https://unsanmartin.github.io/cpu/fonts/vendor/jost/jost-v4-latin-700.woff2" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="https://unsanmartin.github.io/cpu/main.c21371e5f0dc2783b3bd57035a84c78a2550933a0d9590bf319eb478fce41db9734584b678ba78e6f57b32666f3a52ab063c85a1d53f49f0f9865c99dc540e00.css" integrity="sha512-whNx5fDcJ4OzvVcDWoTHiiVQkzoNlZC/MZ60ePzkHblzRYS2eLp45vV7MmZvOlKrBjyFodU/SfD5hlyZ3FQOAA==" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="https://unsanmartin.github.io/cpu/main.4541724b2c48c4b70fc4632f481f0c2fe1d3680de2646cbc6e66c5fde09270ded52eb771f676cc47d692ab2afe7c9b6e00ae9ebb388976daa916a2ede3b7eb43.css" integrity="sha512-RUFySyxIxLcPxGMvSB8ML&#43;HTaA3iZGy8bmbF/eCScN7VLrdx9nbMR9aSqyr&#43;fJtuAK6euziJdtqpFqLt47frQw==" crossorigin="anonymous">
 <noscript><style>img.lazyload { display: none; }</style></noscript>
   <meta name="robots" content="index, follow">
   <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -71,7 +72,31 @@
 <link rel="manifest" href="https://unsanmartin.github.io/cpu/site.webmanifest">
   
 
+  <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 </head>
+
   <body class="docs single">
     <div class="header-bar fixed-top"></div>
 <header class="navbar fixed-top navbar-expand-md navbar-light">
@@ -119,9 +144,11 @@
     </ul>
   <h3>Matemática</h3>
   <ul class="list-unstyled">
+    <li><a class="docs-link" href="https://unsanmartin.github.io/cpu/docs/matematica/clases/">Apuntes de clase</a></li>
     <li><a class="docs-link" href="https://unsanmartin.github.io/cpu/docs/matematica/conjuntos/">Conjuntos Numéricos</a></li>
     <li><a class="docs-link" href="https://unsanmartin.github.io/cpu/docs/matematica/polinomios/">Polinomios</a></li>
     <li><a class="docs-link" href="https://unsanmartin.github.io/cpu/docs/matematica/funciones/">Funciones</a></li>
+    <li><a class="docs-link" href="https://unsanmartin.github.io/cpu/docs/matematica/glosario/">Glosario de símbolos matemáticos</a></li>
     <li><a class="docs-link" href="https://unsanmartin.github.io/cpu/docs/matematica/ejercicios/">Ejercicios</a></li>
     </ul>
   <h3>Introducción a Estudios los Universitarios</h3>
@@ -179,10 +206,10 @@
 
 			<div class="docs-navigation d-flex justify-content-between">
 	
-	<a class="ms-auto" href="https://unsanmartin.github.io/cpu/docs/matematica/conjuntos/">
+	<a class="ms-auto" href="https://unsanmartin.github.io/cpu/docs/matematica/clases/">
 			<div class="card my-1">
 				<div class="card-body py-2">
-					Conjuntos Numéricos &rarr;
+					Apuntes de clase &rarr;
 				</div>
 			</div>
 		</a>
@@ -213,7 +240,8 @@
 </footer>
     
     <script src="https://unsanmartin.github.io/cpu/main.min.691ce812e46cb5ee77d762f657436b8a483873a8af4dd779e4cc50708ba2ee206d8f169572121f43f00d3469e0e40f8beb91d5d1002463dd67221db307777cc8.js" integrity="sha512-aRzoEuRste5312L2V0Nrikg4c6ivTdd55MxQcIui7iBtjxaVchIfQ/ANNGng5A&#43;L65HV0QAkY91nIh2zB3d8yA==" crossorigin="anonymous" defer></script>
-  <script src="https://unsanmartin.github.io/cpu/index.min.f2085d310a25ae72065d0c7705566d0e29c3e705562f398277acb17c93d9103cc13c5a2c6092f20d13db16fb938b8d5f0a3414fa7d23f71f2ad65cbc64cebc75.js" integrity="sha512-8ghdMQolrnIGXQx3BVZtDinD5wVWLzmCd6yxfJPZEDzBPFosYJLyDRPbFvuTi41fCjQU&#43;n0j9x8q1ly8ZM68dQ==" crossorigin="anonymous" defer></script>
+  <script src="https://unsanmartin.github.io/cpu/index.min.2166cfd98f543af2bd4a9ec3e5eb69c6e448caffea4875e3de684e220b1ba0de003fee616e0b1c318c654f1a378f1ad5518df0a2fbe5c8c7665b18af488d1561.js" integrity="sha512-IWbP2Y9UOvK9Sp7D5etpxuRIyv/qSHXj3mhOIgsboN4AP&#43;5hbgscMYxlTxo3jxrVUY3wovvlyMdmWxivSI0VYQ==" crossorigin="anonymous" defer></script>
   
+
   </body>
 </html>

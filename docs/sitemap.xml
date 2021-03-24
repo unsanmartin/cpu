@@ -36,6 +36,12 @@
       <priority>0.5</priority>
     </url>
     <url>
+        <loc>https://unsanmartin.github.io/cpu/docs/matematica/clases/</loc>
+        <lastmod>2021-03-14T17:30:55-03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
         <loc>https://unsanmartin.github.io/cpu/docs/matematica/conjuntos/</loc>
         <lastmod>2021-03-14T17:30:55-03:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -49,6 +55,12 @@
       </url>
       <url>
         <loc>https://unsanmartin.github.io/cpu/docs/matematica/funciones/</loc>
+        <lastmod>2021-03-14T17:30:55-03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://unsanmartin.github.io/cpu/docs/matematica/glosario/</loc>
         <lastmod>2021-03-14T17:30:55-03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
